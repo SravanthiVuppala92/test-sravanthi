@@ -5,7 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "test": "jest",
-    "test:report": "jest --config jest.config.js"
+    "test:report": "jest --config ./jest.config.js"
   },
   "keywords": [],
   "author": "",

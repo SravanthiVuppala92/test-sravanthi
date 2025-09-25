@@ -23,6 +23,9 @@ jobs:
 
       - name:  Run Tests with HTML Report
         run: npm run test:report
+      - name: Run tests with report
+        run: npx jest --config ./jest.config.js
+
 
       - name: Upload HTML Test Report
         uses: actions/upload-artifact@v4
