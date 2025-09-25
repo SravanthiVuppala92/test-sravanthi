@@ -1,3 +1,8 @@
+# Random User API Automation
+
+This project contains automated API tests for the [Random User API](https://randomuser.me/), built using TypeScript and Jest.
+
+
 # Tech Stack 
 - TypeScript
 - Jest
